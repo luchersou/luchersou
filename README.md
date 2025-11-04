@@ -4,8 +4,6 @@
 
 <p align="left"> Meu nome é Lucas Herzinger Souza, sou estudante de Análise e Desenvolvimento de Sistemas na PUCPR, atualmente no 2º período. Minha trajetória acadêmica inclui 1 ano de formação em Ciência da Computação e 1 ano de Administração, o que me proporcionou uma visão ampla tanto dos aspectos técnicos quanto do lado business da tecnologia.<br> Também possuo a certificação <b>AWS Cloud Practitioner</b>, que valida meu conhecimento em computação em nuvem e demonstra meu comprometimento com as tecnologias mais atuais do mercado.</p>
 
-<p>Aplicação Spring Boot de destaque: https://github.com/luchersou/edutech-course-management</p>
-
 ###
 
 <div align="left">
