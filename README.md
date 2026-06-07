@@ -2,7 +2,7 @@
 
 ###
 
-My name is Lucas Herzinger Souza. I studied one year of Computer Science and one year of Business Administration, and I am currently a Systems Analysis and Development student. I also hold the AWS Cloud Practitioner certification.
+Full Stack Developer specializing in modern web technologies, software architecture, and cloud-native applications.
 
 ###
 
