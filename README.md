@@ -64,10 +64,7 @@ Full Stack Developer focused on **backend**, building event-driven services, RAG
 <h3 align="left">Connect</h3>
 
 <div align="left">
-  <a href="https://linkedin.com/in/lucas-herzinger-souza" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-herzinger-souza-42141a2ba">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:regnizreh0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
