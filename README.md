@@ -58,6 +58,7 @@ Full Stack Developer focused on **backend**, building event-driven services, RAG
 | [**Wallet Service**](https://github.com/luchersou/wallet) | Distributed wallet with optimistic locking, immutable ledger, outbox and idempotent consumers | NestJS · Bun · MikroORM · AWS SQS · Keycloak |
 | [**BarberApp**](https://github.com/luchersou/barber) | Multi-tenant scheduling SaaS built with a real barbershop | Next.js · Prisma · Clerk · TanStack Table |
 | [**Payment Microservices**](https://github.com/luchersou/payment-microservice) | Event-driven order processing with observability | NestJS · RabbitMQ · Prometheus · Grafana |
+| [**DevCompare**](https://github.com/luchersou/dev-compare) | Side-by-side npm package comparison with download history, bundle size, GitHub stats and a weighted verdict | Next.js · TanStack Query · Zustand · Recharts |
 
 <br/>
 
